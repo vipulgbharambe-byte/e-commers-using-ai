@@ -1,0 +1,299 @@
+[
+  {
+    "id": "cappuccino",
+    "name": "Cappuccino",
+    "category": "Coffee",
+    "description": "Espresso with steamed milk and soft foam.",
+    "price": 140,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cold-coffee",
+    "name": "Cold Coffee",
+    "category": "Coffee",
+    "description": "Chilled creamy coffee with chocolate drizzle.",
+    "price": 140,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "caf-latte",
+    "name": "Café Latte",
+    "category": "Coffee",
+    "description": "Smooth espresso with silky steamed milk.",
+    "price": 150,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mocha",
+    "name": "Mocha",
+    "category": "Coffee",
+    "description": "Coffee and chocolate blended together.",
+    "price": 160,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "americano",
+    "name": "Americano",
+    "category": "Coffee",
+    "description": "Bold espresso balanced with hot water.",
+    "price": 120,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "iced-americano",
+    "name": "Iced Americano",
+    "category": "Coffee",
+    "description": "Bold espresso poured over chilled ice and water.",
+    "price": 130,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "caramel-macchiato",
+    "name": "Caramel Macchiato",
+    "category": "Coffee",
+    "description": "Espresso with creamy milk and smooth caramel.",
+    "price": 180,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "espresso-tea-latte",
+    "name": "Espresso Tea Latte",
+    "category": "Coffee",
+    "description": "A smooth blend of tea, espresso and warm milk.",
+    "price": 170,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "strawberry-bliss",
+    "name": "Strawberry Bliss",
+    "category": "Drinks",
+    "description": "Fresh strawberry shake with creamy milk.",
+    "price": 150,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "banana-shake",
+    "name": "Banana Shake",
+    "category": "Drinks",
+    "description": "Thick banana shake with a smooth finish.",
+    "price": 150,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-shake",
+    "name": "Chocolate Shake",
+    "category": "Drinks",
+    "description": "Thick, creamy and packed with chocolate flavour.",
+    "price": 160,
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "lemon-cooler",
+    "name": "Lemon Cooler",
+    "category": "Drinks",
+    "description": "Chilled lemon drink with a refreshing finish.",
+    "price": 110,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "orange-fizz",
+    "name": "Orange Fizz",
+    "category": "Drinks",
+    "description": "Bright orange flavour with a sparkling finish.",
+    "price": 130,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "mango-cooler",
+    "name": "Mango Cooler",
+    "category": "Drinks",
+    "description": "Sweet mango blended into a chilled summer drink.",
+    "price": 160,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "coconut-cooler",
+    "name": "Coconut Cooler",
+    "category": "Drinks",
+    "description": "Chilled coconut drink with a light tropical flavour.",
+    "price": 150,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "watermelon-splash",
+    "name": "Watermelon Splash",
+    "category": "Drinks",
+    "description": "Fresh watermelon blended into a cool summer drink.",
+    "price": 140,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "berry-cooler",
+    "name": "Berry Cooler",
+    "category": "Drinks",
+    "description": "Mixed berries with a sweet and refreshing finish.",
+    "price": 160,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "club-sandwich",
+    "name": "Club Sandwich",
+    "category": "Food",
+    "description": "Toasted bread with fresh vegetables and sauces.",
+    "price": 160,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cheese-pizza",
+    "name": "Cheese Pizza",
+    "category": "Food",
+    "description": "Soft crust with melted cheese and herbs.",
+    "price": 220,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "peri-peri-fries",
+    "name": "Peri Peri Fries",
+    "category": "Food",
+    "description": "Golden crispy fries with spicy seasoning.",
+    "price": 120,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "butter-croissant",
+    "name": "Butter Croissant",
+    "category": "Food",
+    "description": "Light and flaky pastry baked fresh.",
+    "price": 100,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "caf-tacos",
+    "name": "Café Tacos",
+    "category": "Food",
+    "description": "Crunchy tacos filled with vegetables and sauce.",
+    "price": 170,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "cream-cheese-bagel",
+    "name": "Cream Cheese Bagel",
+    "category": "Food",
+    "description": "Toasted bagel filled with smooth cream cheese.",
+    "price": 150,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "veggie-wrap",
+    "name": "Veggie Wrap",
+    "category": "Food",
+    "description": "Fresh vegetables wrapped with creamy herbs and sauce.",
+    "price": 170,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "crispy-waffles",
+    "name": "Crispy Waffles",
+    "category": "Food",
+    "description": "Golden waffles served with syrup and fresh toppings.",
+    "price": 180,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "chocolate-cake",
+    "name": "Chocolate Cake",
+    "category": "Desserts",
+    "description": "Soft chocolate cake with creamy layers.",
+    "price": 180,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "choco-cookies",
+    "name": "Choco Cookies",
+    "category": "Desserts",
+    "description": "Fresh baked cookies loaded with chocolate chips.",
+    "price": 90,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "vanilla-cupcake",
+    "name": "Vanilla Cupcake",
+    "category": "Desserts",
+    "description": "Soft vanilla sponge with creamy topping.",
+    "price": 110,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "brownie-sundae",
+    "name": "Brownie Sundae",
+    "category": "Desserts",
+    "description": "Warm brownie with cold ice cream and sauce.",
+    "price": 190,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "berry-pancakes",
+    "name": "Berry Pancakes",
+    "category": "Desserts",
+    "description": "Fluffy pancakes with berries and sweet syrup.",
+    "price": 170,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "caramel-pudding",
+    "name": "Caramel Pudding",
+    "category": "Desserts",
+    "description": "Soft caramel pudding with a smooth creamy texture.",
+    "price": 130,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "glazed-donut",
+    "name": "Glazed Donut",
+    "category": "Desserts",
+    "description": "Soft donut finished with a light sweet glaze.",
+    "price": 100,
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "apple-pie",
+    "name": "Apple Pie",
+    "category": "Desserts",
+    "description": "Warm baked pastry with sweet cinnamon apples.",
+    "price": 170,
+    "available": true,
+    "featured": false
+  }
+]
